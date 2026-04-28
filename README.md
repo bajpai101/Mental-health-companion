@@ -30,7 +30,7 @@ The application provides emotional support, detects user mood in real-time, and 
 ## 📸 Screenshots
 
 ### 💬 Chat Interface
-![Chat UI](chat.png)
+![Chat UI](screenshots/chat.png)
 
 ### 🌟 Affirmation Feature
 ![Affirmation](Affirmation.png)
