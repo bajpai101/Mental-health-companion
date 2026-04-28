@@ -16,4 +16,4 @@ An AI-powered chatbot that helps users manage stress and emotions.
 ## ▶️ How to Run
 
 ```bash
-streamlit run app.py
+streamlit run chatbot.py
