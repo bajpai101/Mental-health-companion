@@ -29,10 +29,14 @@ The application provides emotional support, detects user mood in real-time, and 
 
 ## 📸 Screenshots
 
-* Chat interface
-* Affirmation features
-* Meditation features
+### 💬 Chat Interface
+![Chat UI](screenshots/chat.png)
 
+### 🌟 Affirmation Feature
+![Affirmation](screenshots/affirmation.png)
+
+### 🧘 Meditation Guide
+![Meditation](screenshots/meditation.png)
 ---
 
 ## ▶️ How to Run Locally
